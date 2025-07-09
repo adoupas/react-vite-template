@@ -1,0 +1,11 @@
+{
+  "name": "React Vite Dev",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "forwardPorts": [5173],
+  "extensions": ["dbaeumer.vscode-eslint", "esbenp.prettier-vscode"]
+}
