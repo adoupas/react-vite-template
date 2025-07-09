@@ -1,0 +1,11 @@
+name: React Vite Template
+description: >-
+  🚀 A modern starter for React apps using Vite, Tailwind CSS, React Router,
+  Docker, GitHub Actions, ESLint, and Devcontainer support.
+labels:
+  - react
+  - vite
+  - tailwindcss
+  - docker
+  - github-actions
+  - template
